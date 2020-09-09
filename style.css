@@ -43,3 +43,22 @@ body {
     margin-top: 1rem;
 }
 
+.hero-subtitle {
+    font-size: 2rem;
+    font-weight: 200;
+    margin-top: 1rem;
+}
+
+
+.hero-subcontent {
+    position: relative;
+    font-family: "Monserrat", sans-serif;
+    color: green;
+    text-align: right;
+    margin: 0.625rem;
+}
+.sub-info {
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 0;
+}
